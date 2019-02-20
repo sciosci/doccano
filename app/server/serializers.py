@@ -3,6 +3,7 @@ from rest_framework import serializers
 from .models import Label, Project, Document
 from .models import DocumentAnnotation, SequenceAnnotation, Seq2seqAnnotation
 
+import json
 
 class LabelSerializer(serializers.ModelSerializer):
 
@@ -84,6 +85,7 @@ class ClassificationDocumentSerializer(serializers.ModelSerializer):
 
 class SequenceDocumentSerializer(serializers.ModelSerializer):
     annotations = serializers.SerializerMethodField()
+    metadata = serializers.SerializerMethodField()
 
     def get_annotations(self, instance):
         request = self.context.get('request')
@@ -92,9 +94,14 @@ class SequenceDocumentSerializer(serializers.ModelSerializer):
             serializer = SequenceAnnotationSerializer(annotations, many=True)
             return serializer.data
 
+    def get_metadata(self, instance):
+        request = self.context.get('request')
+        if request:
+            return json.loads(instance.metadata)
+
     class Meta:
         model = Document
-        fields = ('id', 'text', 'annotations')
+        fields = ('id', 'text', 'annotations', 'metadata')
 
 
 class Seq2seqDocumentSerializer(serializers.ModelSerializer):

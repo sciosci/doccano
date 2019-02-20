@@ -70,6 +70,7 @@ class DataUpload(SuperUserMixin, LoginRequiredMixin, TemplateView):
         vals_without_text = [val for i, val in enumerate(row) if i != text_col]
         return json.dumps(dict(zip(header_without_text, vals_without_text)))
 
+
     def csv_to_documents(self, project, file, text_key='text'):
         form_data = TextIOWrapper(file, encoding='utf-8')
         reader = csv.reader(form_data)

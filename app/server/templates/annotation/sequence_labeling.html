@@ -19,6 +19,9 @@
   </header>
   <div class="card-content">
     <div class="content" v-if="docs[pageNumber] && annotations[pageNumber]">
+        <a class="button" v-bind:href="[[ docs[pageNumber].metadata.file_name ]]"><i class="fas fa-pdf"></i>  PDF</a>
+        <h3>[[ docs[pageNumber].metadata.title]]</h3>
+        <h4>[[ docs[pageNumber].metadata.section]]</h4>
       <annotator ref="annotator" v-bind:labels="labels" v-bind:entity-positions="annotations[pageNumber]" v-bind:text="docs[pageNumber].text"
         @remove-label="removeLabel" @add-label="addLabel"></annotator>
     </div>
