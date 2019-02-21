@@ -1,0 +1,101 @@
+[{
+  "renderDpi": 300,
+  "name": "7",
+  "page": 5,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 46.8,
+    "y1": 347.52,
+    "x2": 548.16,
+    "y2": 512.4
+  },
+  "caption": "FIGURE 7 | Graph showing the zone of inhibition recorded for various MDR pathogens against CuO-NS, CeO2-NS, plant extract, roxithromycin (positive control) and deionized water (negative control).",
+  "imageText": [],
+  "renderURL": "parsing/fphar-09-00987-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 51.207000732421875,
+    "y1": 512.2035522460938,
+    "x2": 544.1680908203125,
+    "y2": 525.843994140625
+  }
+}, {
+  "renderDpi": 300,
+  "name": "9",
+  "page": 7,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 46.8,
+    "y1": 65.52,
+    "x2": 548.16,
+    "y2": 267.59999999999997
+  },
+  "caption": "FIGURE 9 | Biocompatibility of green synthesized NS (ROS generation in bacterial cell causes lethal effects, while NS applied on Brine Shrimp are shown non-toxic).",
+  "imageText": [],
+  "renderURL": "parsing/fphar-09-00987-Figure9-1.png",
+  "captionBoundary": {
+    "x1": 51.207000732421875,
+    "y1": 260.2265319824219,
+    "x2": 543.8043212890625,
+    "y2": 264.40203857421875
+  }
+}, {
+  "renderDpi": 300,
+  "name": "2",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 46.8,
+    "y1": 65.52,
+    "x2": 548.16,
+    "y2": 432.71999999999997
+  },
+  "caption": "FIGURE 2 | HPLC chromatogram showing major compounds present in the olive leaf extract (top) with hypothesized capping action around NS (bottom).",
+  "imageText": [],
+  "renderURL": "parsing/fphar-09-00987-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 51.207000732421875,
+    "y1": 424.9145202636719,
+    "x2": 516.4119873046875,
+    "y2": 429.09002685546875
+  }
+}, {
+  "renderDpi": 300,
+  "name": "4",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 46.8,
+    "y1": 65.52,
+    "x2": 548.16,
+    "y2": 357.59999999999997
+  },
+  "caption": "FIGURE 4 | FTIR spectra of CuO-NS and CeO2-NS green-synthesized using olive leaf extract.",
+  "imageText": [],
+  "renderURL": "parsing/fphar-09-00987-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 51.20600128173828,
+    "y1": 349.6235046386719,
+    "x2": 334.0810546875,
+    "y2": 355.0050048828125
+  }
+}, {
+  "renderDpi": 300,
+  "name": "5",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 46.8,
+    "y1": 382.32,
+    "x2": 289.2,
+    "y2": 632.64
+  },
+  "caption": "FIGURE 5 | XRD analysis of prepared CuO-NS and CeO2-NS.",
+  "imageText": [],
+  "renderURL": "parsing/fphar-09-00987-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 51.20600128173828,
+    "y1": 622.924560546875,
+    "x2": 238.656982421875,
+    "y2": 628.3070068359375
+  }
+}]

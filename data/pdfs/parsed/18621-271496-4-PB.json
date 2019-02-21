@@ -1,0 +1,161 @@
+[{
+  "renderDpi": 300,
+  "name": "4",
+  "page": 5,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 106.8,
+    "y1": 198.0,
+    "x2": 506.15999999999997,
+    "y2": 592.0799999999999
+  },
+  "caption": "Figure 4: Activation of the Hh signaling pathway in CAFs promotes the migration and capillary tube formation of LECs in vitro. (A) and (B) Representative images and statistical analyses of cellular migration of LECs treated with rSHH (1 μg/ml) or ECM. The group with VEGF-C (5 ng/ml) was the positive control. (C) and (D) Representative images and statistical analyses of migration of LECs in a co-culture invasion system with CAFs treated with or without rSHH. The group with VEGF-C (5 ng/ml) was the positive control. (E) and (F) Representative images and statistical analyses of in vitro capillary tube formation of LECs treated with rSHH (1 μg/ ml) or ECM. LECs treated with VEGF-C (5 ng/ml) was the positive group. (G) and (H) Representative images and statistical analyses of capillary tube formation of LECs treated with supernatants from cultures of CAFs alone or from CAFs treated with rSHH (1 μg/ml). The group with VEGF-C (5 ng/ml) was the positive control. (I) Representative fluorescent images of VEGFR3- (red), PTCH- (red) and DAPIlabelled (blue) LECs. VEGFR3 is the positive marker for LECs as a membranous protein. (J) Western blot analysis of Gli-1 expression in LECs after 48 h treatment with rSHH (1 μg/ml). GAPDH served as the loading control. (K) CCK8 assay detected the growth rate of LECs at 48 h and 72 h after treatment with rSHH at various doses. The data are expressed as the mean ± s.e.m. (***P<0.001, ****P<0.0001).",
+  "imageText": [],
+  "renderURL": "parsing/18621-271496-4-PB-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 58.0,
+    "y1": 610.1799926757812,
+    "x2": 555.0072631835938,
+    "y2": 724.7999877929688
+  }
+}, {
+  "renderDpi": 300,
+  "name": "5",
+  "page": 6,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 80.88,
+    "y1": 160.79999999999998,
+    "x2": 532.0799999999999,
+    "y2": 603.12
+  },
+  "caption": "Figure 5: VEGF-C is a CAF-derived lymphangiogenesis factor induced by SHH. (A) and (B) qRT-PCR analysis of Gli-1 and VEGF-C mRNA in CAFs and NOFs after 48 h treatment with rSHH (1 μg/ml). (C) ELISA of VEGF-C secreted by CAFs and NOFs after 48 h treatment with rSHH (1 μg/ml). (D) qRT-PCR analysis of Gli-1 and VEGF-C mRNA in CAFs and (E) ELISA of VEGF-C secreted by CAFs co-cultured with SKOV3, TOV-112D or Caov3 cells. (F) qRT-PCR analysis of Gli-1 and VEGF-C mRNA in CAFs and (G) ELISA of VEGF-C secreted by CAFs co-cultured with TOV-112D cells stably transfected with either shNC or SHH-shRNA lentivirus. (H) qRTPCR analysis of Gli-1 and VEGF-C mRNA in CAFs and (I) ELISA of VEGF-C secreted by CAFs co-cultured with Caov3 cells stably transfected with either NC or SHH-OE lentivirus. (J) Western blot analysis of Gli-1 expression in CAFs stably transfected with NC or GlishRNA lentivirus in the presence of rSHH (1 μg/ml) for 48 h. (K) qRT-PCR analysis of Gli-1 and VEGF-C mRNA in CAFs and (L) ELISA of VEGF-C secreted by CAFs stably transfected with NC or Gli-shRNA lentivirus in the presence of rSHH (1 μg/ml) for 48 h. The data are expressed as the mean ± s.e.m. (*P<0.05).",
+  "imageText": [],
+  "renderURL": "parsing/18621-271496-4-PB-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 58.0,
+    "y1": 620.97998046875,
+    "x2": 555.500244140625,
+    "y2": 724.7999877929688
+  }
+}, {
+  "renderDpi": 300,
+  "name": "1",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 78.96,
+    "y1": 337.91999999999996,
+    "x2": 534.0,
+    "y2": 646.0799999999999
+  },
+  "caption": "Figure 1: Exogenous SHH ligands can active Hh signalling in CAFs. (A) Flow cytometric analysis of marker proteins in CAFs and NOFs demonstrating that CAFs are positive for α-SMA and vimentin but negative for cytokeratin 8, whereas NOFs are positive for vimentin but negative for α-SMA and cytokeratin 8. (B) Representative images of morphology of passage 3 CAFs and NOFs. (C) Representative fluorescent images of PTCH- (red), α-SMA- (green) and DAPI-labelled (blue) CAFs and NOFs. (D) Western blot analysis of Gli-1 and PTCH in CAFs and NOFs after 48 h treatment with rSHH (1 μg/ml). GAPDH served as the loading control. (E) Western blot analysis of Gli-1 and PTCH in CAFs in the absence or presence of rSHH (1 μg/ml) or Cyclopamine (10 μM) for 48 h.",
+  "imageText": [],
+  "renderURL": "parsing/18621-271496-4-PB-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 58.0,
+    "y1": 663.780029296875,
+    "x2": 555.0098266601562,
+    "y2": 724.4000244140625
+  }
+}, {
+  "renderDpi": 300,
+  "name": "6",
+  "page": 7,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 85.92,
+    "y1": 175.92,
+    "x2": 527.04,
+    "y2": 636.0
+  },
+  "caption": "Figure 6: Paracrine signaling of tumour-derived SHH in CAFs promotes lymphangiogenesis in vivo. (A) Growth properties of subcutaneous tumours in mice derived from Caov3 SHH-OE or Caov3 NC cells alone or co-injected with CAFs. Kaplan-Meier plot of time to tumour progression, as evidenced by survival rates over time (n=5). (B) Bright field images of subcutaneous tumours from each group (n=5) 20 days after tumour implantation. (C) Graphical representation of the weights of subcutaneous tumours from each group 20 days after tumour implantation. (D) Immunohistochemical staining for Ki-67, α-SMA, Gli-1 and LYVE1 in tumour sections from mice in each group. (E) Graphical representation of the number of LYVE1+ vessels counted from IHC images in panel D. (*P<0.05, **P<0.01, ***P<0.001).",
+  "imageText": [],
+  "renderURL": "parsing/18621-271496-4-PB-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 58.0,
+    "y1": 653.3800048828125,
+    "x2": 555.0108642578125,
+    "y2": 724.7999877929688
+  }
+}, {
+  "renderDpi": 300,
+  "name": "2",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 79.92,
+    "y1": 426.0,
+    "x2": 533.04,
+    "y2": 646.0799999999999
+  },
+  "caption": "Figure 2: Exogenous SHH ligands promote the proliferation of CAFs in vitro. (A) Representative fluorescent images and statistical analyses of the relative number of Ki-67-labeled (red) CAFs after 48 h treatment with rSHH (1 μg/ml). The nuclei were stained with DAPI (blue). (B) Representative fluorescent images and statistical analyses of the relative number of EDU-positive (red) CAFs after 48 h treatment with rSHH (1 μg/ml). The nuclei were stained with DAPI (blue). (C) Representative images of CAFs after 48 h treatment with rSHH (1 μg/ml). (D) Detection of relative viability of CAFs in the absence or presence of rSHH or Cyclopamine intervention at various doses for 48 h. Data are expressed as mean ± s.e.m. (***P<0.001, ****P<0.0001).",
+  "imageText": [],
+  "renderURL": "parsing/18621-271496-4-PB-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 58.0,
+    "y1": 664.1799926757812,
+    "x2": 555.0162963867188,
+    "y2": 724.7999877929688
+  }
+}, {
+  "renderDpi": 300,
+  "name": "8",
+  "page": 8,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 84.0,
+    "y1": 492.0,
+    "x2": 529.1999999999999,
+    "y2": 683.04
+  },
+  "caption": "Figure 8: Schematic of OC cell-mediated Hh signalling in CAFs and the VEGF-C feed-forward loop. Hh ligands secreted by OC cells activate Hh signalling in CAFs. Then, Hh signalling in CAFs results in the expression of VEGF-C that facilitates the migration and capillary tube formation of LECs, thus promoting tumour metastasis.",
+  "imageText": [],
+  "renderURL": "parsing/18621-271496-4-PB-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 58.0,
+    "y1": 700.9302978515625,
+    "x2": 555.006103515625,
+    "y2": 729.1502685546875
+  }
+}, {
+  "renderDpi": 300,
+  "name": "7",
+  "page": 8,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 63.839999999999996,
+    "y1": 49.92,
+    "x2": 549.12,
+    "y2": 349.2
+  },
+  "caption": "Figure 7: Inhibition of Hh signaling in CAFs blocks its effects on lymphangiogenesis in vivo and in vitro. (A) Representative images and statistical analyses of migration of LECs in a co-culture invasion system with CAFs stably transfected with shNC or Gli-shRNA lentivirus in the presence of rSHH (1 μg/ml). (B) Representative images and statistical analyses of capillary tube formation of LECs treated with supernatants from cultures of CAFs stably transfected with shNC or Gli-shRNA lentivirus in the presence of rSHH (1 μg/ml). (C) Bright field images and graphical representation of the weights of tumours of subcutaneous tumours from mice (n=5) bearing Caov3 SHHOE cells co-injected with CAFs stably transfected with shNC or Gli-shRNA lentivirus 20 days after tumour implantation. (D) Growth properties of subcutaneous tumours in mice derived from Caov3 SHH-OE cells co-injected with CAFs stably transfected with shNC or GlishRNA lentivirus. Kaplan-Meier plot of time to tumour progression, as evidenced by survival rates over time. (E) IHC staining for Ki-67, α-SMA, Gli-1 and LYVE1 in tumour sections from mice in the two groups. (F) Graphical representation of the number of LYVE1+ vessels counted from IHC images in panel E. (**P<0.01, ***P<0.001).",
+  "imageText": [],
+  "renderURL": "parsing/18621-271496-4-PB-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 58.0,
+    "y1": 366.53759765625,
+    "x2": 555.51123046875,
+    "y2": 470.3576965332031
+  }
+}, {
+  "renderDpi": 300,
+  "name": "3",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 80.88,
+    "y1": 230.88,
+    "x2": 532.0799999999999,
+    "y2": 625.1999999999999
+  },
+  "caption": "Figure 3: OC cell-derived SHH activates Hh signaling of CAFs. (A) Western blot analysis of SHH and Gli-1 expression in OC cells. GAPDH served as the loading control. (B) ELISA of SHH ligand secreted by OC cells. (C) ELISA of SHH ligand secreted by TOV-112D cells stably transfected with either shNC or SHH-shRNA lentivirus. (D) ELISA of SHH ligand secreted by Caov3 cells stably transfected with either NC or SHH-OE lentivirus. (E) Western blot analysis of SHH and Gli-1 in TOV-112D and Caov3 cells stably transfected with lentivirus. (F) Schematic depicting of indirectly co-cultured OC cells and CAFs from the top to bottom. (G) Western blot analysis of Gli-1 expression in CAFs that were indirectly co-cultured with SKOV3, TOV-112D or CAOV3 cells. CAFs cultured alone were used as the control. (H) Western blot analysis of Gli-1 expression in CAFs that were indirectly co-cultured with TOV-112D and Caov3 cells stably transfected with lentivirus. Data are expressed as mean ± s.e.m. (*P < 0.05).",
+  "imageText": [],
+  "renderURL": "parsing/18621-271496-4-PB-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 58.0,
+    "y1": 642.5800170898438,
+    "x2": 555.0079956054688,
+    "y2": 724.7999267578125
+  }
+}]

@@ -1,0 +1,81 @@
+[{
+  "renderDpi": 300,
+  "name": "1",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 87.84,
+    "y1": 49.92,
+    "x2": 525.12,
+    "y2": 587.04
+  },
+  "caption": "Figure 1: TNFα-mediated EMT in TNBC cells is dependent on AP-1–ZEB2 signaling. (A) BT549 and Hs578T cells were serum-starved overnight and then treated with or without TNFα (10 ng/ml) for 72 hours. The cells were examined by phase contrast microscopy and Western blots analysis for epithelial (E-cadherin) and mesenchymal (N-cadherin and fibronectin) markers. β-actin was used as a loading control. Representative images from two independent studies. (B) BT549 cells transfected with control, Fra-1 or c-Jun siRNA were treated as above. Western blot confirms knockdown of Fra-1 or c-Jun levels. (C) BT549 cells transfected with control or ZEB2 siRNA were treated as above. Western blot confirms knockdown of ZEB2 levels. The same image for control siRNA is shown for Figure 1B and Figure 1C because all conditions were assessed in the same experiment.",
+  "imageText": [],
+  "renderURL": "parsing/oncotarget-06-7804-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 58.0,
+    "y1": 604.4959716796875,
+    "x2": 555.4981689453125,
+    "y2": 675.916015625
+  }
+}, {
+  "renderDpi": 300,
+  "name": "3",
+  "page": 5,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 97.92,
+    "y1": 49.92,
+    "x2": 515.04,
+    "y2": 589.1999999999999
+  },
+  "caption": "Figure 3: TNFα regulates ZEB2 via two promoters dependent on AP-1 in TNBC cells. (A) Structure of the 5′ region of the ZEB2 gene and schematic of mRNA initiated from two distinct first exons, named exon 1a and exon 1b, splicing to downstream exon 2. Origins of sequences: exon 1a was from ENST00000558170, and exon 1b from ENST00000409487. The size of each exon and distances between exons are indicated. ‘▼’ at exon 2 indicates ATG, ‘▄’ indicates AP-1 binding site and bent arrows indicate transcriptional start sites. RT-PCR primer sets to amplify exon 1a and exon 1b transcripts are also indicated. Expected sizes of the products are shown in the parentheses. (B) RT-PCR detection of the expression of exon 1a and exon 1b transcripts in RNA isolated from breast cancer cell lines. Expression of β-actin mRNA was used as an internal control. (C) RT-PCR detection of the expression of exon 1a and exon 1b transcripts in breast tumor RNA. (D) qPCR data showing decreased exon 1a and exon 1b transcript levels in BT549 cells upon Fra-1 or c-Jun depletion. Values are mean ± SD (n = 3). *p < 0.05 compared with control siRNA. (E) qPCR data showing that depletion of Fra-1 or c-Jun markedly impaired the induction of exon 1a and exon 1b transcript expression by TNFα. Values are mean ± SD (n = 3). *p < 0.05, **p < 0.01 compared with control siRNA.",
+  "imageText": [],
+  "renderURL": "parsing/oncotarget-06-7804-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 58.0,
+    "y1": 607.080078125,
+    "x2": 555.0250244140625,
+    "y2": 721.7000732421875
+  }
+}, {
+  "renderDpi": 300,
+  "name": "2",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 78.0,
+    "y1": 49.92,
+    "x2": 535.1999999999999,
+    "y2": 506.15999999999997
+  },
+  "caption": "Figure 2: TNFα induces AP-1 activation and ZEB2 expression in TNBC cells. (A) Western blot analysis of p-Fra-1, Fra-1, p-c-Jun, c-Jun, and β-actin (as a loading control) in BT549 cells treated with or without TNFα (10 ng/ml) for 2, 4 and 6 hours. (B) TNFα mediates Fra-1 and c-Jun expression via the PI3K/Akt and MAPK/ERK pathways. Western blot analysis of pAkt, Akt, pERK1/2, ERK1/2, Fra-1, c-Jun and β-actin (as a loading control) in BT549 cells pretreated with LY294002 (25 μM) or PD98059 (25 μM) for 6 hours, followed by stimulation with TNFα (10 ng/ml) for 6 hours. (C) TNFα induces ZEB2 expression at both the mRNA and protein levels in BT549 and Hs578T cells. ZEB2 mRNA levels were determined by qPCR after treatment with or without TNFα (10 ng/ml) for the indicated times. Data are shown as means with SD. **p < 0.01, ***p < 0.001 compared with TNFα minus (n = 3). The protein levels of ZEB2 after 6 hours of treatment with TNFα were analyzed by Western blot. β-actin was used as a loading control. (D) Depletion of Fra-1 or c-Jun markedly impaired the induction of ZEB2 gene expression by TNFα. Values are mean ± SD (n = 3). *p < 0.05 compared with control siRNA. (E) ChIP-qPCR analysis showing increased binding of Fra-1 and c-Jun to ZEB2 following TNFα treatment. Columns, mean fold enrichment of Fra-1 or c-Jun relative to IgG; bars, SD (n = 3). *p < 0.05, **p < 0.01 compared with TNFα minus. (F) ChIP-qPCR analysis showing increased binding of phospho-Fra-1 to ZEB2 following TNFα treatment. TFF1 is used as a negative control. ChIP was performed with antibody against phospho-Fra-1. Columns, mean fold enrichment of phospho-Fra-1 relative to IgG; bars, SD (n = 3). **p < 0.01 compared with TNFα minus.",
+  "imageText": [],
+  "renderURL": "parsing/oncotarget-06-7804-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 58.0,
+    "y1": 523.6123046875,
+    "x2": 555.0341186523438,
+    "y2": 670.63232421875
+  }
+}, {
+  "renderDpi": 300,
+  "name": "4",
+  "page": 6,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 145.92,
+    "y1": 49.92,
+    "x2": 467.03999999999996,
+    "y2": 483.12
+  },
+  "caption": "Figure 4: AP-1-mediated chromatin looping regulates ZEB2 transcription. (A) Schematic of the ZEB2 locus, showing 13833 kb region from base 34891668 to 35030000 (GenBank accession no. NW_004929304). Vertical arrows represent the locations of cleavage sites for HindIII (H) and PvuII (P). Horizontal arrows indicate locations and orientations of the combinations of primer sets used in 3C assay. Numbers in brackets indicate primer positions (numbering according to GenBank accession no. NW_004929304). Primer sequences were as follows: P1, GAGAGCATGATATTAAACGGCATGGGGTCTAAGTTTTGGA; P2, GGAGAATCCTGAAAACTCGGTGGAGGTTGGGAAGATGCTG; P3, TCTCTGAGTAATTTAGTAGACACTAAAATTACACCTAATG; P4, CGATCTTTGAATTTATCTGCAATGAGGTACAGCTTTAATG. The region amplified as a loading control (LC) is also indicated. (B) A looped topological conformation of the ZEB2 promoter 1a and 1b is observed in BT549 cells. Results of 3C analysis with the indicated primer pairs on chromatin prepared from BT549 cells by crosslinking or not with formaldehyde (FA), and digestion with combination of HindIII and PvuII, followed by ligation (Lig) or not. PCR products from two primer pairs P1/P2 and P1/P3, which are closely located to exon 1a or exon 1b, were detected in samples from crosslinked chromatin with subsequent ligation (lane 4). As a negative control, primer pair P1/P4 generated no PCR product (panel 3). Lane Con shows positive control fragment, which indicates the expected size of PCR products in the 3C assay if the tested DNA ends are in close proximity. The sequences of primers for amplifying size marker templates will be provided on request. The loading control (LC) for each lane is shown in the bottom panel. (C) AP-1 associates with the juxtaposed promoter 1a and 1b. ChIP-loop analysis of putative gene loop region in chromatin prepared from BT549 cells using antibodies against IgG and AP-1 (a pool of Fra-1 and c-Jun antibodies). (D) Knockdown of AP-1 abolishes gene looping of promoter 1a and 1b. 3C assays performed on chromatin prepared from BT549 cells after transfection with control siRNA or siRNAs against Fra-1 and c-Jun for 72 hours. Bottom panels, Western blot analysis showing reduced protein levels of Fra-1 and c-Jun 72 hours after siRNA transfection in BT549 cells, as determined by using an anti-Fra-1 or anti-c-Jun antibody, respectively. β-actin was used as a loading control. (E) TNFα treatment increases gene looping. 3C assays performed on chromatin prepared from serum-starved BT549 cells treated with or without TNFα for 2 hours.",
+  "imageText": [],
+  "renderURL": "parsing/oncotarget-06-7804-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 58.0,
+    "y1": 501.08001708984375,
+    "x2": 555.1236572265625,
+    "y2": 712.89990234375
+  }
+}]
